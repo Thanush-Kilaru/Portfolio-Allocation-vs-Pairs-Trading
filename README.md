@@ -174,6 +174,7 @@ After that, I proceeded with calculating the Sharpe, Sortino and Calmar ratio.
 <img src="./static/Screenshot 2022-11-04 at 15.58.01.png"/>
 <img src="./static/Screenshot 2022-11-04 at 15.58.14.png"/>
 <img src="./static/Screenshot 2022-11-04 at 15.58.25.png"/>
+
 ## Conclusion and future implications
 The big assumption made:
 We can only invest in specific stocks from the selected sectors.
