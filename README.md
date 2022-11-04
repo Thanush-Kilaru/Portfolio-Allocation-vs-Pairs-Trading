@@ -19,7 +19,7 @@ For both strategies, I employed a triplet, or 3 stocks, as opposed to a pair. I 
 ### Sharpe Ratio
 It is the ratio for comparing reward (return on investment) to risk (standard deviation). This allows us to adjust the returns on an investment by the amount of risk that was taken in order to achieve it.
 
-<img src="./static/Screenshot 2022-11-04 at 15.39.18"/>
+<img src="./static/Screenshot 2022-11-04 at 15.39.18.png"/>
 
 * 𝑅 - annual expected return of the asset in question.
 * 𝑅𝑓 - annual risk-free rate. Think of this as a deposit in the bank earning x% per annum.
@@ -30,7 +30,7 @@ The Sortino ratio is very similar to the Sharpe ratio, the only difference being
 
 The rationale for this is that we aren't too worried about positive deviations, however, the negative deviations are of great concern, since they represent a loss of our money. This is given by the following formula:
 
-<img src="./static/Screenshot 2022-11-04 at 15.39.18"/>
+<img src="./static/Screenshot 2022-11-04 at 16.04.44.png"/>
 
 * R - annual expected return of the asset in question.
 * 𝑅𝑓 - annual risk-free rate.
@@ -39,7 +39,7 @@ The rationale for this is that we aren't too worried about positive deviations, 
 ### Calamar Ratio
 This is similar to the other ratios, with the key difference being that the Calmar ratio uses max drawdown in the denominator as opposed to standard deviation.
 
-<img src="./static/Screenshot 2022-11-04 at 15.39.18"/>
+<img src="./static/Screenshot 2022-11-04 at 16.04.53.png"/>
 
 * R -  annual expected return of the asset in question.
 * 𝑅𝑓 - annual risk-free rate.
@@ -171,9 +171,9 @@ After that, I proceeded with calculating the Sharpe, Sortino and Calmar ratio.
 𝐶𝑎𝑙𝑚𝑎𝑟 𝑟𝑎𝑡𝑖𝑜= 𝐴𝑣𝑒𝑟𝑎𝑔𝑒 𝑎𝑛𝑛𝑢𝑎𝑙 𝑟𝑒𝑡𝑢𝑟𝑛/𝑀𝑎𝑥𝑖𝑚𝑢𝑚 𝑑𝑟𝑎𝑤𝑑𝑜𝑤𝑛
 
 ## Results
-<img src="./static/Screenshot 2022-11-04 at 15.39.18"/>
-<img src="./static/Screenshot 2022-11-04 at 15.39.18"/>
-<img src="./static/Screenshot 2022-11-04 at 15.39.18"/>
+<img src="./static/Screenshot 2022-11-04 at 15.58.01.png"/>
+<img src="./static/Screenshot 2022-11-04 at 15.58.14.png"/>
+<img src="./static/Screenshot 2022-11-04 at 15.58.25.png"/>
 ## Conclusion and future implications
 The big assumption made:
 We can only invest in specific stocks from the selected sectors.
